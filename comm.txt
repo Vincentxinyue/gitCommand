@@ -1,2 +1,2 @@
-this is master text:wq:
+this is master text
 
