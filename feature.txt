@@ -1,8 +1,7 @@
 ﻿my feature
 feature change again
 增加信息
-first branch write
-增加信息OD
+first branch write:wq
 再次合并
 我需要在feature分支上修改一些数据
 
